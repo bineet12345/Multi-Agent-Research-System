@@ -1,0 +1,25 @@
+# Core Framework
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+
+# Agents and Orchestration
+langgraph
+
+# Hub and Tracing
+langchainhub
+langsmith
+
+# Tools and Utilities
+tavily-python
+beautifulsoup4
+requests
+html2text
+
+# Environment and Helpers
+python-dotenv
+aiohttp
+pydantic
+
+rich
